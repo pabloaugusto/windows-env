@@ -12,16 +12,8 @@ Scripts e documentação inciais
 
 Scoop is a windows package installer that brings simplicity and modernity to M$ environments
 
-#### Scoop Repos
-
-To install a new repo just type":
-
-~~~shell
-scoop bucket add **package_name**
-~~~
-
-- extras
-
 #### Scoop Apps
 
-- [Scoop Tray](https://github.com/foosel/scoop-tray)
+- [Scoop Tray](https://github.com/foosel/scoop-tray) [^Extras]
+
+[^Extras]: Bucket: Extras.
