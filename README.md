@@ -2,18 +2,14 @@
 
 Utilização do chocolatey e do boxtarter para instalar tudo necessário após a instalação do windows
 
-## Em andamento
+## Windows Package Managers
 
-Scripts e documentação inciais
+- [Scoop](https://scoop.sh/)
+- [Chocolatey](https://chocolatey.org/)
+- [Winget](https://github.com/microsoft/winget-cli)
+  - Install from Scoop ``scoop install winget``
 
-## Packages
+## Apps
 
-### Scoop
-
-Scoop is a windows package installer that brings simplicity and modernity to M$ environments
-
-#### Scoop Apps
-
-- [Scoop Tray](https://github.com/foosel/scoop-tray) [^Extras]
-
-[^Extras]: Bucket: **Extras**.
+- [Scoop Tray](https://github.com/foosel/scoop-tray)
+- [Windows terminal](https://github.com/microsoft/terminal)
