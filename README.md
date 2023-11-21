@@ -16,4 +16,4 @@ Scoop is a windows package installer that brings simplicity and modernity to M$ 
 
 - [Scoop Tray](https://github.com/foosel/scoop-tray) [^Extras]
 
-[^Extras]: Bucket: Extras.
+[^Extras]: Bucket: **Extras**.
