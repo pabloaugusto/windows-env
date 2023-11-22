@@ -19,7 +19,7 @@ Create / Edit the profile file at one of this directories:
 
 - **Current user, Current Host** ``$PROFILE.CurrentUserCurrentHost``
 - Current User, All Hosts ``$PROFILE.CurrentUserAllHosts``
-- All Users, Current Host ``AllUsersCurrentHost``
+- All Users, Current Host ``$PROFILE.AllUsersCurrentHost``
 - All Users, All Hosts ``$PROFILE.AllUsersAllHosts``
 
 ## Windows Package Managers
