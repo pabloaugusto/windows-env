@@ -29,7 +29,7 @@ Create / Edit the profile file at one of this directories:
 - [Winget](https://github.com/microsoft/winget-cli)
   - Install from Scoop ``scoop install winget``
 
-## Apps 
+## Apps
 
 - [Scoop Tray](https://github.com/foosel/scoop-tray)
 - [Windows terminal](https://github.com/microsoft/terminal)
