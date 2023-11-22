@@ -31,7 +31,9 @@ Create / Edit the profile file at one of this directories:
 
 ## Apps
 
-- [Scoop Tray](https://github.com/foosel/scoop-tray)
-- [Windows terminal](https://github.com/microsoft/terminal)
-- [gSudo](https://gerardog.github.io/gsudo/)
-- [PowerShell 7](https://community.chocolatey.org/packages/powershell-core)
+- [**scoop**  - Scoop Tray](https://github.com/foosel/scoop-tray)
+- [**scoop**  - Windows terminal](https://github.com/microsoft/terminal)
+- [**scoop**  - gSudo](https://gerardog.github.io/gsudo/)
+- [**winget** - whatsapp](https://winget.run/pkg/WhatsApp/WhatsApp)
+- [**winget** - whatsapp tray](https://winstall.app/apps/D4koon.WhatsappTray)
+- [**choco**  - PowerShell 7](https://community.chocolatey.org/packages/powershell-core)
